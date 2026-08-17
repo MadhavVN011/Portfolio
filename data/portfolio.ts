@@ -1,6 +1,6 @@
 export const profile = {
   name: "Madhav V Nair",
-  age: 22,
+  age: 23,
   location: "Mumbai, Maharashtra, India",
   avatarUrl: "/profile.jpg",
   bio: [
